@@ -1,0 +1,1246 @@
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Assembly-CSharp.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Assembly-CSharp.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\mscorlib.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\netstandard.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\PsdPlugin.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.AppContext.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Collections.Concurrent.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Collections.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Collections.NonGeneric.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Collections.Specialized.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.ComponentModel.Composition.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.ComponentModel.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Console.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Core.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Data.Common.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Data.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.Debug.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.Process.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.Tools.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Drawing.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Drawing.Primitives.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Dynamic.Runtime.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Globalization.Calendars.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Globalization.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Globalization.Extensions.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.Compression.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.FileSystem.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.Pipes.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Linq.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Linq.Expressions.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Linq.Parallel.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Linq.Queryable.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.Http.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.NameResolution.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.NetworkInformation.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.Ping.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.Primitives.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.Requests.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.Security.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.Sockets.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Net.WebSockets.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Numerics.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Numerics.Vectors.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.ObjectModel.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Reflection.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Reflection.Extensions.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Reflection.Primitives.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Resources.Reader.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Resources.ResourceManager.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Resources.Writer.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.Extensions.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.Handles.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.InteropServices.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.Numerics.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.Serialization.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Security.Claims.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Security.Principal.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Security.SecureString.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.ServiceModel.Web.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Text.Encoding.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Text.RegularExpressions.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Threading.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Threading.Overlapped.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Threading.Tasks.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Threading.Thread.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Threading.ThreadPool.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Threading.Timer.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Transactions.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.ValueTuple.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Web.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Windows.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.Linq.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.Serialization.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.XDocument.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.XmlDocument.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.XPath.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Mathematics.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Rider.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.TextMeshPro.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Timeline.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Timeline.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.VSCode.Editor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEditor.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEditor.UI.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AIModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ARModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AudioModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ClothModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.CoreModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.GridModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.InputModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TLSModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UI.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UIModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UNETModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.VFXModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.VideoModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.VRModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.WindModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.XRModule.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Cecil.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.SerializationLogic.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\ExCSS.Unity.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEditor.TestRunner.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.CecilTools.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TestRunner.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEditor.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UI.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Timeline.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\PsdPlugin.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Rider.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Mathematics.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.TextMeshPro.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEditor.UI.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AIModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ARModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.AudioModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ClothModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.CoreModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.GridModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.InputModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TLSModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UIModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UNETModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.VFXModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.VRModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.VideoModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.WindModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.XRModule.xml
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+A:\Proyectos Unity\Unity\2D IA Prueba\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+A:\Proyectos Unity\Unity\2D IA Prueba\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+A:\Proyectos Unity\Unity\2D IA Prueba\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+A:\Proyectos Unity\Unity\2D IA Prueba\obj\Debug\Assembly-CSharp.dll
+A:\Proyectos Unity\Unity\2D IA Prueba\obj\Debug\Assembly-CSharp.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Assembly-CSharp.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Assembly-CSharp.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\mscorlib.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\netstandard.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\PsdPlugin.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.AppContext.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Collections.Concurrent.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Collections.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Collections.NonGeneric.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Collections.Specialized.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.ComponentModel.Composition.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.ComponentModel.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Console.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Core.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Data.Common.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Data.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.Debug.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.Process.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.Tools.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Drawing.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Drawing.Primitives.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Dynamic.Runtime.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Globalization.Calendars.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Globalization.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Globalization.Extensions.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.Compression.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.FileSystem.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.Pipes.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Linq.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Linq.Expressions.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Linq.Parallel.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Linq.Queryable.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.Http.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.NameResolution.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.NetworkInformation.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.Ping.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.Primitives.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.Requests.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.Security.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.Sockets.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Net.WebSockets.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Numerics.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Numerics.Vectors.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.ObjectModel.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Reflection.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Reflection.Extensions.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Reflection.Primitives.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Resources.Reader.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Resources.ResourceManager.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Resources.Writer.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.Extensions.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.Handles.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.InteropServices.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.Numerics.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.Serialization.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Security.Claims.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Security.Principal.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Security.SecureString.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.ServiceModel.Web.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Text.Encoding.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Text.RegularExpressions.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Threading.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Threading.Overlapped.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Threading.Tasks.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Threading.Thread.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Threading.ThreadPool.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Threading.Timer.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Transactions.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.ValueTuple.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Web.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Windows.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.Linq.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.Serialization.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.XDocument.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.XmlDocument.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.XPath.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Mathematics.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Rider.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.TextMeshPro.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Timeline.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Timeline.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.VSCode.Editor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEditor.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEditor.UI.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AIModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ARModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AudioModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ClothModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.CoreModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.GridModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.InputModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TLSModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UI.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UIModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UNETModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.VFXModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.VideoModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.VRModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.WindModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.XRModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Cecil.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.SerializationLogic.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\ExCSS.Unity.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEditor.TestRunner.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.CecilTools.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TestRunner.dll
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEditor.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UI.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Timeline.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\PsdPlugin.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Rider.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Mathematics.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.TextMeshPro.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEditor.UI.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AIModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ARModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.AudioModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ClothModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.CoreModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.GridModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.InputModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TLSModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UIModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UNETModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.VFXModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.VRModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.VideoModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.WindModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.XRModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+A:\Proyectos Unity\Unity\Asteroids\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+A:\Proyectos Unity\Unity\Asteroids\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+A:\Proyectos Unity\Unity\Asteroids\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+A:\Proyectos Unity\Unity\Asteroids\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+A:\Proyectos Unity\Unity\Asteroids\obj\Debug\Assembly-CSharp.dll
+A:\Proyectos Unity\Unity\Asteroids\obj\Debug\Assembly-CSharp.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Assembly-CSharp.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Assembly-CSharp.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\mscorlib.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\netstandard.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\PsdPlugin.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.AppContext.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Collections.Concurrent.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Collections.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Collections.NonGeneric.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Collections.Specialized.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ComponentModel.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Console.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Core.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Data.Common.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Data.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Diagnostics.Debug.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Diagnostics.Process.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Diagnostics.Tools.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Drawing.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Dynamic.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Globalization.Calendars.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Globalization.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Globalization.Extensions.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.FileSystem.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.Pipes.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Linq.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Linq.Expressions.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Linq.Parallel.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Linq.Queryable.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.Http.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.NameResolution.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.NetworkInformation.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.Ping.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.Requests.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.Security.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.Sockets.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.WebSockets.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Numerics.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Numerics.Vectors.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ObjectModel.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Reflection.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Reflection.Extensions.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Reflection.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Resources.Reader.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Resources.ResourceManager.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Resources.Writer.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.Extensions.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.Handles.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.InteropServices.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.Numerics.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.Serialization.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Security.Claims.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Security.Principal.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Security.SecureString.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Text.Encoding.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Text.RegularExpressions.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Threading.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Threading.Overlapped.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Threading.Tasks.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Threading.Thread.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Threading.ThreadPool.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Threading.Timer.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ValueTuple.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Xml.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Xml.Linq.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Xml.XDocument.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Xml.XmlDocument.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Xml.XPath.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Mathematics.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Rider.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Timeline.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Timeline.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.VSCode.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEditor.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEditor.UI.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AIModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ARModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AudioModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ClothModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.CoreModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.GridModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.InputModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TLSModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UI.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UIModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UNETModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.VFXModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.VideoModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.VRModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.WindModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.XRModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Cecil.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.SerializationLogic.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\ExCSS.Unity.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEditor.TestRunner.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.CecilTools.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TestRunner.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEditor.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UI.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Timeline.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\PsdPlugin.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Rider.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Mathematics.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEditor.UI.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AIModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ARModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.AudioModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ClothModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.CoreModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.GridModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.InputModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TLSModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UIModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UNETModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.VFXModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.VRModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.VideoModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.WindModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.XRModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+A:\Proyectos Unity\Unity\Kill the Coronavirus\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+A:\Proyectos Unity\Unity\Kill the Coronavirus\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+A:\Proyectos Unity\Unity\Kill the Coronavirus\obj\Debug\Assembly-CSharp.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\obj\Debug\Assembly-CSharp.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Boo.Lang.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Microsoft.CSharp.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Net.Http.Rtc.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Reflection.Emit.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ServiceModel.Http.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\System.ServiceModel.Security.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.Advertisements.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.Monetization.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityScript.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityScript.Lang.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Boo.Lang.Compiler.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Boo.Lang.Parser.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\Boo.Lang.Useful.dll
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.Monetization.pdb
+A:\Proyectos Unity\Unity\Kill the Coronavirus\Temp\bin\Debug\UnityEngine.Advertisements.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Assembly-CSharp.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Assembly-CSharp.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Boo.Lang.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Microsoft.CSharp.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\mscorlib.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\netstandard.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\PsdPlugin.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.AppContext.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Collections.Concurrent.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Collections.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Collections.NonGeneric.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Collections.Specialized.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ComponentModel.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Console.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Core.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Data.Common.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Data.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Diagnostics.Debug.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Diagnostics.Process.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Diagnostics.Tools.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Drawing.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Dynamic.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Globalization.Calendars.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Globalization.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Globalization.Extensions.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.FileSystem.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.Pipes.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Linq.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Linq.Expressions.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Linq.Parallel.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Linq.Queryable.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.Http.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.Http.Rtc.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.NameResolution.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.NetworkInformation.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.Ping.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.Requests.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.Security.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.Sockets.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Net.WebSockets.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Numerics.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Numerics.Vectors.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ObjectModel.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Reflection.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Reflection.Emit.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Reflection.Extensions.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Reflection.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Resources.Reader.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Resources.ResourceManager.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Resources.Writer.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.Extensions.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.Handles.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.InteropServices.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.Numerics.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.Serialization.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Security.Claims.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Security.Principal.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Security.SecureString.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ServiceModel.Http.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ServiceModel.Security.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Text.Encoding.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Text.RegularExpressions.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Threading.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Threading.Overlapped.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Threading.Tasks.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Threading.Thread.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Threading.ThreadPool.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Threading.Timer.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.ValueTuple.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Xml.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Xml.Linq.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Xml.XDocument.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Xml.XmlDocument.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Xml.XPath.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Mathematics.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Rider.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Timeline.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Timeline.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.VSCode.Editor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEditor.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEditor.UI.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.Advertisements.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AIModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ARModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AudioModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ClothModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.CoreModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.GridModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.InputModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.Monetization.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TLSModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UI.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UIModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UNETModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.VFXModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.VideoModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.VRModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.WindModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.XRModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityScript.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityScript.Lang.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Cecil.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.SerializationLogic.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\ExCSS.Unity.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Boo.Lang.Compiler.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Boo.Lang.Parser.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Boo.Lang.Useful.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEditor.TestRunner.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.CecilTools.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TestRunner.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEditor.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AIModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ARModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.AudioModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ClothModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.CoreModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.GridModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.InputModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TLSModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UIModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UNETModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.VFXModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.VRModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.VideoModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.WindModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.XRModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.Monetization.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.Advertisements.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.UI.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Timeline.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\PsdPlugin.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Rider.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Mathematics.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEditor.UI.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+A:\Proyectos Unity\Unity\Kill the Dengue\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+A:\Proyectos Unity\Unity\Kill the Dengue\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+A:\Proyectos Unity\Unity\Kill the Dengue\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+A:\Proyectos Unity\Unity\Kill the Dengue\obj\Debug\Assembly-CSharp.dll
+A:\Proyectos Unity\Unity\Kill the Dengue\obj\Debug\Assembly-CSharp.pdb
